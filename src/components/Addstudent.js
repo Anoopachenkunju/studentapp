@@ -1,7 +1,12 @@
 import React from 'react'
+import Header from './Header'
 
 const Addstudent = () => {
   return (
+      <div>
+
+
+      <Header />
     <div>
 <div className="conatiner">
     <div className="row g-3">
@@ -42,6 +47,7 @@ const Addstudent = () => {
 </div>
 
 
+    </div>
     </div>
   )
 }
