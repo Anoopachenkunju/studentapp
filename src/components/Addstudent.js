@@ -46,4 +46,4 @@ const Addstudent = () => {
   )
 }
 
-export default Addstud
+export default Addstudent
